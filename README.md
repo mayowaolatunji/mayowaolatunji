@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi 👋, I'm ghost</h1>
-<h3 align="center">A Fontend | Web3 | Web2 developer from 🌎</h3>
+<h1 align="center">Hi 👋, I'm Mayowa Olatunji</h1>
+<h3 align="center">A Technical writer | Web3 | Blockchain writer from 🌎</h3>
 
-- 🔭 I’m currently working on [Myself🧘 and Exciting Technology](#)
+- 🔭 I’m currently working on [Bloclchain-related Documentation & Technical Reports for open-sourced projects](#)
 
 - 👀 I’m interested in **creating web3 or Blockchain-related Technical Documents...**
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **olatunjimayowa0396@gmail.com**
 
-- 📄 Resume / Know about my experiences #
+- 📄 Resume / Know about my experiences (My portfolio)[https://drive.google.com/drive/folders/1relhDp21MNOIZUxdDJhnEg_qLGXYeTYV?usp=share_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
