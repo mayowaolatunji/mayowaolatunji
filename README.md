@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mayowa Olatunji</h1>
 <h3 align="center">A Technical writer | Web3 | Blockchain writer from 🌎</h3>
 
-- 🔭 I’m currently working on [Bloclchain-related Documentation & Technical Reports for open-sourced projects](#)
+- 🔭 I’m currently working on [Blockchain-related Documentation & Technical Reports for open-sourced projects](#)
 
 - 👀 I’m interested in **creating web3 or Blockchain-related Technical Documents...**
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **olatunjimayowa0396@gmail.com**
 
-- 📄 Resume / Know about my [experiance](https://drive.google.com/file/d/1g7-Zs9JoXkUwAMca9WMI4p7FJ1UQoUXg/view?ths=true)
+- 📄 Resume / Know about my [experience](https://drive.google.com/file/d/1g7-Zs9JoXkUwAMca9WMI4p7FJ1UQoUXg/view?ths=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
