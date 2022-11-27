@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **olatunjimayowa0396@gmail.com**
 
-- 📄 Resume / Know about my experiences [portfolio](https://drive.google.com/file/d/1g7-Zs9JoXkUwAMca9WMI4p7FJ1UQoUXg/view?ths=true)
+- 📄 Resume / Know about my [experiance](https://drive.google.com/file/d/1g7-Zs9JoXkUwAMca9WMI4p7FJ1UQoUXg/view?ths=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
