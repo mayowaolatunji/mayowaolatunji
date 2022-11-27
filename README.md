@@ -36,18 +36,18 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Myself🧘 and Exciting Technology](#)
 
-- 🌱 I’m currently freelancing and learning **New Technologies and stacks 😊💻**
+- 👀 I’m interested in **creating web3 or Blockchain-related Technical Documents...**
 
-- 💬 Ask me about **Html, Css, Bootstrap, Tailwind, Material Ui Javascript, Jquery, ExpressJs, ReactJs, NextJs, NodeJs, MongoDb**
+- 💬 Ask me about **DeFi projects, Crypto Exchanges and NFT & web3 projects**
 
-- 📫 How to reach me **ghostsmaw@gmail.com**
+- 📫 How to reach me **olatunjimayowa0396@gmail.com**
 
-- 📄 Resume / Know about my experiences [https://drive.google.com/file/d/1lj3RJqs9MHxDC_iXpMk1NV47hMhUR-tO/view](https://drive.google.com/file/d/1lj3RJqs9MHxDC_iXpMk1NV47hMhUR-tO/view)
+- 📄 Resume / Know about my experiences #
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ghostsmaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghostsmaw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/williams-peter-4b8bb4177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williams-peter-4b8bb4177/" height="30" width="40" /></a>
+<a href=" https://twitter.com/MIOlatunji1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miolatunji" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayorwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
