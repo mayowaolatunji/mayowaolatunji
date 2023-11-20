@@ -1,35 +1,5 @@
 
 
-<!--
-**Ghostsmaw/ghostsmaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<table>
-<tr>
-  <td valign="center">
-    🎓 I am graduate in **Bachelor's in Mathematics**.
-    🌱 I am a **Frontend | Web3 Developer** and also currently learning new Technologies **Java**.
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
-    ✨ I love to **Code**, **Travel New Places**, **Learn** and drink **coffee😄**.
-<td >
-# this is my daily.dev card, you can edit this accordingly
-    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
-  </td>
-</tr>
-</table>
-
--->
 
 <h1 align="center">Hi 👋, I'm Mayowa Olatunji</h1>
 <h3 align="center">A Technical writer | Web3 | Blockchain writer from 🌎</h3>
@@ -40,7 +10,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **DeFi projects, Crypto Exchanges and NFT & web3 projects**
 
-- 📫 How to reach me **olatunjimayowa0396@gmail.com**
+- 📫 How to reach me **mayowaweb3writer@gmail.com**
 
 - 📄 Resume / Know about my [experience](https://drive.google.com/file/d/1g7-Zs9JoXkUwAMca9WMI4p7FJ1UQoUXg/view?ths=true)
 
