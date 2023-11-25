@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mayowaweb3writer@gmail.com**
 
-- 📄 Know about my [experience]([https://drive.google.com/file/d/1g7-Zs9JoXkUwAMca9WMI4p7FJ1UQoUXg/view?ths=true](https://mayowaolatunji.github.io/))
+- 📄 Know about my [experience](https://mayowaolatunji.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
