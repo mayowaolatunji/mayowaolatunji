@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mayowa Olatunji</h1>
 <h3 align="center">A Technical writer | Web3 | Blockchain writer from 🌎</h3>
 
-- 🔭 I’m currently working on [Blockchain-related Documentation & Technical Reports for open-sourced projects](#)
+- 🔭 I’m currently working on [Blockchain-related Documentations & Technical Reports for open-sourced projects](#)
 
 - 👀 I’m interested in **creating web3 or Blockchain-related Technical Documents...**
 
